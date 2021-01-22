@@ -1436,7 +1436,10 @@ table tr td span{
     font-size: 12px;
     padding: 10px;
 }
-
+.fgrid2{
+    max-width: 100%;
+    margin: 10px;
+}
    
 }
 
